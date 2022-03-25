@@ -1,0 +1,13 @@
+{
+  "name": "client-cache",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "dev": "http-server -p 8080"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
